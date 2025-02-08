@@ -23,5 +23,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 Initially get started by editing: src/app/page.tsx
 # Penguins
+Help the penguin in his advanture by advancing to the next level by falling through the ice hole. 
+
  website: https://penguinicescapade.netlify.app/
  
